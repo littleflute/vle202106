@@ -81,7 +81,11 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
+<<<<<<< HEAD
 <img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/1710880304?pageName=voa%3alearn%3ar%3aclipsexternal%3alost%20fishing%20equipment%20threatens%20ocean%20life&amp;c6=lost%20fishing%20equipment%20threatens%20ocean%20life&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=lost%20fishing%20equipment%20threatens%20ocean%20life&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-as-it-is&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=audio&amp;v4=D=c4&amp;c14=5913914&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+=======
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/972921589?pageName=voa%3alearn%3ar%3aclipsexternal%3alost%20fishing%20equipment%20threatens%20ocean%20life&amp;c6=lost%20fishing%20equipment%20threatens%20ocean%20life&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=lost%20fishing%20equipment%20threatens%20ocean%20life&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-as-it-is&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=audio&amp;v4=D=c4&amp;c14=5913914&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 <!-- End of Analytics tag management NoScript -->
 <!--*** Accessibility links - For ScreenReaders only ***-->
 <section>
@@ -442,10 +446,17 @@ Subscribe
 <div class="container">
 <div class="hdr-container">
 <div class="row">
+<<<<<<< HEAD
 <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&amp;RecordId=5913914&amp;SiteId=428&amp;r=1411211875&amp;it=0&amp;pd=20210602173800" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
 data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5913914" data-lt-siteId="428" />
 <noscript>
 <img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&amp;RecordId=5913914&amp;SiteId=428&amp;r=1411211875&amp;it=0&amp;pd=20210602173800" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+=======
+<img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&amp;RecordId=5913914&amp;SiteId=428&amp;r=321881269&amp;it=0&amp;pd=20210602173800" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5913914" data-lt-siteId="428" />
+<noscript>
+<img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&amp;RecordId=5913914&amp;SiteId=428&amp;r=321881269&amp;it=0&amp;pd=20210602173800" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5913914" data-lt-siteId="428" />
 </noscript>
 <div class="col-title col-xs-12 col-md-10 col-lg-10 pull-right"> <h1 class="" >

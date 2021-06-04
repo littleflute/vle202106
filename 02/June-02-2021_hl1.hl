@@ -79,7 +79,11 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
+<<<<<<< HEAD
 <img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/1691920628?pageName=voa%3alearn%3ar%3aarticle%3aisrael%20to%20study%20%e2%80%98possible%20link%e2%80%99%20between%20covid%20vaccine%2c%20heart%20problem&amp;c6=israel%20to%20study%20%e2%80%98possible%20link%e2%80%99%20between%20covid%20vaccine%2c%20heart%20problem&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=israel%20to%20study%20%e2%80%98possible%20link%e2%80%99%20between%20covid%20vaccine%2c%20heart%20problem&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-health-lifestyle&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=5914031&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+=======
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/1141627820?pageName=voa%3alearn%3ar%3aarticle%3aisrael%20to%20study%20%e2%80%98possible%20link%e2%80%99%20between%20covid%20vaccine%2c%20heart%20problem&amp;c6=israel%20to%20study%20%e2%80%98possible%20link%e2%80%99%20between%20covid%20vaccine%2c%20heart%20problem&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=israel%20to%20study%20%e2%80%98possible%20link%e2%80%99%20between%20covid%20vaccine%2c%20heart%20problem&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-health-lifestyle&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=5914031&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 <!-- End of Analytics tag management NoScript -->
 <!--*** Accessibility links - For ScreenReaders only ***-->
 <section>
@@ -319,14 +323,22 @@ title="please wait" />
 <ul>
 <li>
 <div class="media-block ">
+<<<<<<< HEAD
 <a href="/a/5895644.html" class="img-wrap img-wrap--t-spac img-wrap--size-3 img-wrap--float" title="Learning English Broadcast">
+=======
+<a href="/a/5897089.html" class="img-wrap img-wrap--t-spac img-wrap--size-3 img-wrap--float" title="Learning English Broadcast">
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 <div class="thumb thumb16_9">
 <img data-src="https://gdb.voanews.com/47E37481-CAD6-4AEF-9AD4-74FC8B936E46_w66_r1.jpg" src="" alt=" " />
 </div>
 <span class="ico ico-audio ico--media-type"></span>
 </a>
 <div class="media-block__content media-block__content--h">
+<<<<<<< HEAD
 <a href="/a/5895644.html" rel="noopener">
+=======
+<a href="/a/5897089.html" rel="noopener">
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 <h4 class="media-block__title media-block__title--size-3" title="Learning English Broadcast">
 Learning English Broadcast
 </h4>
@@ -458,10 +470,17 @@ Learning English Broadcast
 <div class="container">
 <div class="hdr-container">
 <div class="row">
+<<<<<<< HEAD
 <div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5914031&amp;SiteId=428&amp;r=621724271&amp;it=0&amp;pd=20210602215959" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
 data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5914031" data-lt-siteId="428" />
 <noscript>
 <img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5914031&amp;SiteId=428&amp;r=621724271&amp;it=0&amp;pd=20210602215959" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+=======
+<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5914031&amp;SiteId=428&amp;r=139215609&amp;it=0&amp;pd=20210602215959" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5914031" data-lt-siteId="428" />
+<noscript>
+<img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5914031&amp;SiteId=428&amp;r=139215609&amp;it=0&amp;pd=20210602215959" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5914031" data-lt-siteId="428" />
 </noscript>
 <div class="category">
@@ -473,7 +492,11 @@ Israel to Study ‘Possible Link’ between COVID Vaccine, Heart Problem
 <div class="published">
 <span class="date" >
 <time datetime="2021-06-02T21:59:59+00:00">
+<<<<<<< HEAD
 1 hour ago
+=======
+June 02, 2021
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 </time>
 </span>
 </div>
@@ -660,7 +683,11 @@ data-hlsjs-src="/Scripts/responsive/hls.b">
 <img src="/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait" />
 </div>
 <div class="c-mmp__player">
+<<<<<<< HEAD
 <audio src="https://av.voanews.com/clips/VLE/2021/06/02/76a9c2f5-ca8f-4fa9-a9e0-68007df16b3c.mp3" data-fallbacksrc="" data-fallbacktype="" data-type="audio/mp3" data-info="64 kbps" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/clips/VLE/2021/06/02/76a9c2f5-ca8f-4fa9-a9e0-68007df16b3c_hq.mp3&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/clips/VLE/2021/06/02/76a9c2f5-ca8f-4fa9-a9e0-68007df16b3c_hq.mp3&quot;,&quot;Type&quot;:&quot;audio/mp3&quot;,&quot;DataInfo&quot;:&quot;128 kbps&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&RecordId=5914045&SiteId=428&r=621724271&it=0&pd=20210602185300" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%;height:140px" title="Israel to Study ‘Possible Link’ between COVID Vaccine, Heart Problem">
+=======
+<audio src="https://av.voanews.com/clips/VLE/2021/06/02/76a9c2f5-ca8f-4fa9-a9e0-68007df16b3c.mp3" data-fallbacksrc="" data-fallbacktype="" data-type="audio/mp3" data-info="64 kbps" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/clips/VLE/2021/06/02/76a9c2f5-ca8f-4fa9-a9e0-68007df16b3c_hq.mp3&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/clips/VLE/2021/06/02/76a9c2f5-ca8f-4fa9-a9e0-68007df16b3c_hq.mp3&quot;,&quot;Type&quot;:&quot;audio/mp3&quot;,&quot;DataInfo&quot;:&quot;128 kbps&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&RecordId=5914045&SiteId=428&r=139215609&it=0&pd=20210602185300" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%;height:140px" title="Israel to Study ‘Possible Link’ between COVID Vaccine, Heart Problem">
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 </audio>
 </div>
 <div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">

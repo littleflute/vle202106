@@ -79,7 +79,11 @@ if(utag_searchKeyword!=null && utag_searchKeyword!=='' && utag_data["search_keyw
 <!--Analytics tag js version end-->
 <!-- Analytics tag management NoScript -->
 <noscript>
+<<<<<<< HEAD
 <img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/656488707?pageName=voa%3alearn%3ar%3aarticle%3achina%20reports%20first%20possible%20human%20case%20of%20rare%20bird%20flu&amp;c6=china%20reports%20first%20possible%20human%20case%20of%20rare%20bird%20flu&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=china%20reports%20first%20possible%20human%20case%20of%20rare%20bird%20flu&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-as-it-is&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=5913797&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+=======
+<img style="position: absolute; border: none;" src="https://bbg.d1.sc.omtrdc.net/b/ss/bbgrvoalearnen-bbgprod-bbgentityvoa-bbgunitvoalearningenglish/1/G.4--NS/1979763938?pageName=voa%3alearn%3ar%3aarticle%3achina%20reports%20first%20possible%20human%20case%20of%20rare%20bird%20flu&amp;c6=china%20reports%20first%20possible%20human%20case%20of%20rare%20bird%20flu&amp;v6=D=c6&amp;g=https%3a%2f%2flearningenglish.voanews.com&amp;c1=D=g&amp;v1=D=g&amp;events=event1&amp;c7=china%20reports%20first%20possible%20human%20case%20of%20rare%20bird%20flu&amp;v7=D=c7&amp;c16=voa%20learning%20english&amp;v16=D=c16&amp;c5=learningenglish-as-it-is&amp;v5=D=c5&amp;ch=english&amp;v15=D=ch&amp;c15=D=ch&amp;c4=article&amp;v4=D=c4&amp;c14=5913797&amp;v14=D=c14&amp;c20=no&amp;c17=responsive&amp;v17=D=c17" alt="analytics" width="1" height="1" /></noscript>
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 <!-- End of Analytics tag management NoScript -->
 <!--*** Accessibility links - For ScreenReaders only ***-->
 <section>
@@ -458,10 +462,17 @@ Learning English Broadcast
 <div class="container">
 <div class="hdr-container">
 <div class="row">
+<<<<<<< HEAD
 <div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5913797&amp;SiteId=428&amp;r=1921047751&amp;it=0&amp;pd=20210602215843" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
 data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5913797" data-lt-siteId="428" />
 <noscript>
 <img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5913797&amp;SiteId=428&amp;r=1921047751&amp;it=0&amp;pd=20210602215843" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+=======
+<div class="col-category col-xs-12 col-md-2 pull-left"> <img src="" data-src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5913797&amp;SiteId=428&amp;r=1328723618&amp;it=0&amp;pd=20210602215843" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5913797" data-lt-siteId="428" />
+<noscript>
+<img src="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=1&amp;RecordId=5913797&amp;SiteId=428&amp;r=1328723618&amp;it=0&amp;pd=20210602215843" alt="" style="display: none; position: absolute; top: 0; left: 0" class="live-tracker-image"
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 data-lt-referrerControllerUrl="https://livetracker.voa.pangea-cms.com/api/lt/ref" data-lt-itemType="Content" data-lt-recordId="5913797" data-lt-siteId="428" />
 </noscript>
 <div class="category">
@@ -660,7 +671,11 @@ data-hlsjs-src="/Scripts/responsive/hls.b">
 <img src="/Content/responsive/img/player-spinner.png" alt="please wait" title="please wait" />
 </div>
 <div class="c-mmp__player">
+<<<<<<< HEAD
 <audio src="https://av.voanews.com/clips/VLE/2021/06/02/d7026aa1-645a-457a-a39c-bb37b0d4d38d.mp3" data-fallbacksrc="" data-fallbacktype="" data-type="audio/mp3" data-info="64 kbps" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/clips/VLE/2021/06/02/d7026aa1-645a-457a-a39c-bb37b0d4d38d_hq.mp3&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/clips/VLE/2021/06/02/d7026aa1-645a-457a-a39c-bb37b0d4d38d_hq.mp3&quot;,&quot;Type&quot;:&quot;audio/mp3&quot;,&quot;DataInfo&quot;:&quot;128 kbps&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&RecordId=5913844&SiteId=428&r=1921047751&it=0&pd=20210602164800" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%;height:140px" title="China Reports First Possible Human Case of Rare Bird Flu">
+=======
+<audio src="https://av.voanews.com/clips/VLE/2021/06/02/d7026aa1-645a-457a-a39c-bb37b0d4d38d.mp3" data-fallbacksrc="" data-fallbacktype="" data-type="audio/mp3" data-info="64 kbps" data-sources="[{&quot;AmpSrc&quot;:&quot;https://av.voanews.com/clips/VLE/2021/06/02/d7026aa1-645a-457a-a39c-bb37b0d4d38d_hq.mp3&quot;,&quot;Src&quot;:&quot;https://av.voanews.com/clips/VLE/2021/06/02/d7026aa1-645a-457a-a39c-bb37b0d4d38d_hq.mp3&quot;,&quot;Type&quot;:&quot;audio/mp3&quot;,&quot;DataInfo&quot;:&quot;128 kbps&quot;,&quot;Url&quot;:null,&quot;BlockAutoTo&quot;:null,&quot;BlockAutoFrom&quot;:null}]" data-lt-on-play="1" data-lt-url="https://livetracker.voa.pangea-cms.com/counter.lt?PageType=128&RecordId=5913844&SiteId=428&r=1328723618&it=0&pd=20210602164800" webkit-playsinline="webkit-playsinline" playsinline="playsinline" style="width:100%;height:140px" title="China Reports First Possible Human Case of Rare Bird Flu">
+>>>>>>> 147f0cec50d53e798b3e06dc3b3f1c6d52abbe19
 </audio>
 </div>
 <div class="c-mmp__overlay c-mmp__overlay--title c-mmp__overlay--partial c-mmp__overlay--disabled c-mmp__overlay--slide-from-top js-c-mmp__title-overlay">
